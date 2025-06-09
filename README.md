@@ -62,6 +62,26 @@ Authentication Logic: Started with static login and documented the need for more
 
 Code Organization: Maintained modular structure by separating logic into model, DAO, and main classes.
 
+## How to Run Code
+
+Clone the repository using Git
+
+Open the project in IntelliJ IDEA (or any Java IDE)
+
+Make sure MySQL server is running
+
+Create a database named studentdb in MySQL
+
+Create the required tables: students and admin
+
+Update your database connection details in the code (URL, username, password)
+
+Build and run the project
+
+Use the static admin login to access the system
+
+Start performing CRUD operations and use the search feature
+
 ## Outcome
 
 This project helped reinforce my understanding of Java, JDBC, SQL, and best practices in application development. It also improved my confidence in building full-featured backend systems.
